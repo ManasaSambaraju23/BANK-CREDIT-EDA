@@ -1,5 +1,4 @@
 This project focuses on identifying patterns that indicate whether a client is likely to face difficulty in repaying their loan instalments. Using Exploratory Data Analysis (EDA), we aim to extract actionable insights that can help financial institutions make informed and data-driven lending decisions.
-Objective
 The goal is to:
 Detect risk-prone applicants early,
 Reduce the likelihood of loan defaults,
